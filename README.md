@@ -2,12 +2,11 @@
 <h1>[AAAI 2025] 🚀GaraMoSt</h1>
 <h3>Parallel Multi-Granularity Motion and Structural Modeling for Efficient Multi-Frame Interpolation in DSA Images</h3>
 
-[Ziyang Xu](https://ziyangxu.top/)<sup>1</sup>, Huangxuan Zhao<sup>2,3</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>1 :email:</sup>
-
+[Ziyang Xu](https://ziyangxu.top/)<sup>1</sup>, Huangxuan Zhao<sup>2,3</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>1 :email:</sup>  
 (<sup>:email:</sup>) corresponding author.
 
-<sup>1</sup> Institute of AI, School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China.
-<sup>2</sup> Department of Radiology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.
+<sup>1</sup> Institute of AI, School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China.  
+<sup>2</sup> Department of Radiology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.  
 <sup>3</sup> School of Computer Science, Wuhan University, Wuhan, China.
 
 [![arxiv](https://img.shields.io/badge/Paper-AAAI_2025-orange)](https://ojs.aaai.org/index.php/AAAI/article/view/35076) [![license](https://img.shields.io/badge/License-Apache_2.0-blue)](LICENSE)
