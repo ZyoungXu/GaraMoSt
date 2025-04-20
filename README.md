@@ -1,8 +1,9 @@
 <div align="center">
-<h1>GaraMoSt</h1>
+<h1>[AAAI 2025] 🚀GaraMoSt</h1>
 <h3>Parallel Multi-Granularity Motion and Structural Modeling for Efficient Multi-Frame Interpolation in DSA Images</h3>
 
 [Ziyang Xu](https://ziyangxu.top/)<sup>1</sup>, Huangxuan Zhao<sup>2,3</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>1 :email:</sup>
+
 (<sup>:email:</sup>) corresponding author.
 
 <sup>1</sup> Institute of AI, School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China.
